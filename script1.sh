@@ -1,3 +1,2 @@
-ls
-find -name "*txt"
-find ~ size +10
+#!/bin/bash
+find -name "*txt"s
