@@ -1,2 +1,2 @@
-## ALSE g3 repo
+## ALSE g1 repo
 Respositorio de la asignatura ALSE para aprender c++
