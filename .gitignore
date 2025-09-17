@@ -45,7 +45,7 @@ Makefile
 *.qmake.cache
 
 # Visual Studio Code files
-.vscode/
+#.vscode/
 
 # JetBrains IDEs files
 .idea/

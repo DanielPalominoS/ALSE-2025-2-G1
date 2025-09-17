@@ -87,6 +87,7 @@ int main(int argc, char *argv[]) {
     if (arg == "--help") {
       std::cout << "Usage: ./my_program [options]\n";
       return 0;
+      
     }
   }
 
