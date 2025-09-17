@@ -38,6 +38,7 @@ int main()
     std::cout << "bool variable address" << &opened << std::endl;
     std::cout << "uns int variable address" << &count << std::endl;
     std::cout << "short variable address" << &score << std::endl;
+    std::cout << "short variable address" << &score << std::endl;
     /*Multi line comment
     Imprimir tamaño
     de variables
